@@ -1,2 +1,1 @@
-# simple-scores-recorder
- A simple command prompt based score recorder
+# This is a simple command prompt based score recorder
